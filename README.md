@@ -6,6 +6,6 @@ Recommended screen setup:
 
 - Screen Resolutiom: 2560x1080
 - Screen Scale: 125%
-- Before run the escript, don't forget to configure .env.local file with same values of .env.example file)
+- Before run the escript, don't forget to configure .env.local file with the same constants name of .env.example file, just change the values)
 
 \*App and folders need to be openned in full scrren, recommend to paths be shortcuts setted up to always open in full screen
